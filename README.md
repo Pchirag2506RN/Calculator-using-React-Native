@@ -1,5 +1,3 @@
-# Hello
-
 ## This is a Calculator
 
 ![Simulator Screen Shot - iPhone 13 - 2022-02-24 at 02 25 17](https://user-images.githubusercontent.com/43630417/155477881-5bd39925-55c3-4e22-9966-9ebc0976a863.png)
